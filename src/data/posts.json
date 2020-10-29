@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Hello World",
+        "content": "Try React its awesome",
+        "slug": "hello-world",
+        "date": "12-04-2017"
+    },
+    {
+        "id": 2,
+        "title": "setup React",
+        "content": "Setting up react is easy",
+        "slug": "setup-react",
+        "date": "1-28-2018"
+    },
+    {
+        "id": 3,
+        "title": "setup React",
+        "content": "Setting up react is easy",
+        "slug": "setup-react",
+        "date": "2-29-2019"
+    }
+]
